@@ -1,1 +1,1 @@
-# explorabi
+# Explora BI - Business Analytics
